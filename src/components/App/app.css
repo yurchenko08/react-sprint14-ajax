@@ -13,6 +13,7 @@ button {
 }
 button:hover {
   font-size: 2rem;
+  cursor: pointer;
 }
 .next-button {
   width: 20%;
